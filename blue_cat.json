@@ -1,0 +1,6 @@
+{
+"name": "Test App",
+"icon": "icon.jpg",
+"description": "This is test app",
+"platform": "android"
+}
