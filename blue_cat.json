@@ -1,7 +1,7 @@
- {
-"name": "Бибизяна апельсин",
+{
+"name": "Test App",
 "icon": "icon.jpg",
-"description": "просто бибизяна но апельсин",
-"platform": "android"
- }
-
+"description": "This is test app",
+"platform": "android",
+"file": "sis/gh_install.cpython-310.pyc"
+}
